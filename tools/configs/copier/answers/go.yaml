@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_src_path: src/go
+executable_name: cli
+module_name: custom-lib
+package_name: tool
+package_url: github.com/swissdatasciencecenter/my-project/tool
+project_hosts:
+  - host: github.com
+    organization: swissdatasciencecenter
+    repo: my-project
+  - host: gitlab.datascience.ch
+    organization: my-organization
+    repo: my-project
